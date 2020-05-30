@@ -8,4 +8,4 @@ Examined two different types of neural netorks:
 
 2. A convolutional sequential neural network
 
-The former achieved approximately 97.6% accuracy, while the latter achieved approximately 99% accuracy.
+The former achieved approximately 97.1% accuracy, while the latter achieved approximately 99% accuracy.
